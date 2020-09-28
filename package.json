@@ -1,0 +1,20 @@
+{
+  "name": "yaptv-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/system-yaptv/yaptv-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/system-yaptv/yaptv-pages/issues"
+  },
+  "homepage": "https://github.com/system-yaptv/yaptv-pages#readme"
+}
